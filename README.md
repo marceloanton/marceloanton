@@ -1,10 +1,10 @@
 # 💫 About Me:
 
-👨‍💻 Desarrollador con experiencia en Java, Node.js y tecnologías web.`</br>`
-💼 Actualmente trabajando en proyectos de escritorio con Java Swing y Spring Boot.`</br>`
-📚 Apasionado por enseñar programación y compartir retos didácticos de algoritmos.`</br>`
-🔧 Utilizo patrones de diseño como MVC y herramientas como MySQL, Hibernate y JPA.`</br>`
-🚀 Siempre aprendiendo nuevas tecnologías para mejorar la experiencia del usuario.`</br>`
+👨‍💻 Desarrollador con experiencia en Java, Node.js y tecnologías web.</br>
+💼 Actualmente trabajando en proyectos de escritorio con Java Swing y Spring Boot.</br>
+📚 Apasionado por enseñar programación y compartir retos didácticos de algoritmos.</br>
+🔧 Utilizo patrones de diseño como MVC y herramientas como MySQL, Hibernate y JPA.</br>
+🚀 Siempre aprendiendo nuevas tecnologías para mejorar la experiencia del usuario.</br>
 
 ## 🌐 Socials:
 
