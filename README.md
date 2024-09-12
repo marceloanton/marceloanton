@@ -1,6 +1,10 @@
 # 💫 About Me:
 
-👨‍💻 Desarrollador con experiencia en Java, Node.js y tecnologías web.`<br>`💼 Actualmente trabajando en proyectos de escritorio con Java Swing y Spring Boot.`<br>`📚 Apasionado por enseñar programación y compartir retos didácticos de algoritmos.`<br>`🔧 Utilizo patrones de diseño como MVC y herramientas como MySQL, Hibernate y JPA.`<br>`🚀 Siempre aprendiendo nuevas tecnologías para mejorar la experiencia del usuario.
+👨‍💻 Desarrollador con experiencia en Java, Node.js y tecnologías web.
+💼 Actualmente trabajando en proyectos de escritorio con Java Swing y Spring Boot.
+📚 Apasionado por enseñar programación y compartir retos didácticos de algoritmos.
+🔧 Utilizo patrones de diseño como MVC y herramientas como MySQL, Hibernate y JPA.
+🚀 Siempre aprendiendo nuevas tecnologías para mejorar la experiencia del usuario.
 
 ## 🌐 Socials:
 
@@ -12,9 +16,8 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=marceloanton&theme=solarized-dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=marceloanton&theme=solarized-dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=marceloanton&theme=solarized-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![img](https://github-readme-stats.vercel.app/api?username=marceloanton&theme=solarized-dark&hide_border=false&include_all_commits=false&count_private=false)![img](https://github-readme-streak-stats.herokuapp.com/?user=marceloanton&theme=solarized-dark&hide_border=false)
+![img](https://github-readme-stats.vercel.app/api/top-langs/?username=marceloanton&theme=solarized-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 
@@ -30,5 +33,4 @@
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=marceloanton&icon=2&color=2)](https://visitcount.itsvg.in)
-
+[![img](https://visitcount.itsvg.in/api?id=marceloanton&icon=2&color=2)](https://visitcount.itsvg.in)
