@@ -24,12 +24,10 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marceloanton&show_icons=true&theme=solarized-dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marceloanton&layout=compact&theme=solarized-dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marceloanton&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marceloanton&layout=compact&theme=dark)
 
 ## 🏆 Achievements
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=marceloanton&theme=solarized-dark&no-frame=true&margin-w=10)
-
-
+![Trophies](https://github-profile-trophy.vercel.app/?username=marceloanton&theme=dark)
 
