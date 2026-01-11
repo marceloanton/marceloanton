@@ -22,12 +22,4 @@
 - **Control de Ventas** – registro y análisis de ventas internas.
 - **Data Comparator** – herramienta para comparar Excel/CSV y validar datos.
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marceloanton&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marceloanton&layout=compact&theme=dark)
-
-## 🏆 Achievements
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=marceloanton&theme=dark)
 
