@@ -1,32 +1,31 @@
-## 👋 About Me
+# 👋 Hi, I'm Marcelo
 
-Operations and administrative analyst with a technical profile.
+💼 Operations & Administrative Analyst with a technical profile  
+🔧 I design and build internal systems to automate processes, validate data and improve operational control  
+📌 Focused on real business needs: billing, payments, sales tracking and data validation  
+🌍 Open to remote and hybrid technical roles
 
-I build internal systems to automate processes, validate data and improve operational control.
-My focus is on reasoning, data consistency and practical problem-solving.
+**JavaScript | PHP | SQL**
+## 💻 Tech Stack
 
-JavaScript | PHP | SQL
-## 🔧 Core Skills
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%2300f2c3.svg?logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white)
 
-- JavaScript
-- PHP
-- SQL
-- Data validation
-- Process automation
-- Internal systems
-## 📌 Focus
+## ⭐ Featured Projects
 
-- Operations & administrative automation
-- Data validation and consistency
-- Code reasoning and logic
-- Maintainable, practical solutions
-## 💻 Tech Stack (selected)
+### 📌 Internal Operations Tools
+- **Control de Profesores y Asistencia** – sistema para controlar horarios, asistencia y alumnos.
+- **Control de Cobros de Planes** – gestión de pagos y vencimientos.
+- **Control de Ventas** – registro y análisis de ventas internas.
+- **Data Comparator** – herramienta para comparar Excel/CSV y validar datos.
 
-**Backend / Logic**
-JavaScript · PHP · SQL
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=marceloanton&theme=solarized-dark)
+![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marceloanton&theme=solarized-dark&layout=compact)
 
-**Web**
-HTML · CSS · JavaScript
+## 🏆 Achievements
 
-**Tools**
-Git · GitHub · MySQL · Postman
+![](https://github-profile-trophy.vercel.app/?username=marceloanton&theme=solarized-dark&no-bg=true)
+
