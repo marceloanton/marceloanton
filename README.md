@@ -2,10 +2,10 @@
 
 Operations and administrative analyst with a technical profile.
 
-I design and build internal systems to automate processes, validate data and improve operational control. My work focuses on practical problem-solving, data quality and clear reasoning.
+I build internal systems to automate processes, validate data and improve operational control.
+My focus is on reasoning, data consistency and practical problem-solving.
 
-I use programming as a tool to support real business operations such as billing, payments, sales tracking and internal reporting.
-
+JavaScript | PHP | SQL
 ## 🔧 Core Skills
 
 - JavaScript
@@ -13,16 +13,20 @@ I use programming as a tool to support real business operations such as billing,
 - SQL
 - Data validation
 - Process automation
-- Internal systems design
-
+- Internal systems
 ## 📌 Focus
 
-- Operations & administrative automation  
-- Data consistency and validation  
-- Code reasoning and logic  
-- Maintainable and practical solutions  
+- Operations & administrative automation
+- Data validation and consistency
+- Code reasoning and logic
+- Maintainable, practical solutions
+## 💻 Tech Stack (selected)
 
-## 🌍 Open to
+**Backend / Logic**
+JavaScript · PHP · SQL
 
-- Remote / hybrid roles  
-- Operations, data validation and technical analysis projects
+**Web**
+HTML · CSS · JavaScript
+
+**Tools**
+Git · GitHub · MySQL · Postman
