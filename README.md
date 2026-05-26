@@ -1,25 +1,80 @@
-# 👋 Hi, I'm Marcelo
+# Marcelo Ruben Anton
 
-💼 Operations & Administrative Analyst with a technical profile  
-🔧 I design and build internal systems to automate processes, validate data and improve operational control  
-📌 Focused on real business needs: billing, payments, sales tracking and data validation  
-🌍 Open to remote and hybrid technical roles
+**Soporte IT Senior | Administracion de Sistemas | Desarrollo y Automatizacion con IA**
 
-**JavaScript | PHP | SQL**
-## 💻 Tech Stack
+Buenos Aires, Argentina  
+[marceloanton.online](https://marceloanton.online) · [LinkedIn](https://www.linkedin.com/in/marcelo-anton) · [GitHub](https://github.com/marceloanton)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%2300f2c3.svg?logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white)
+## Perfil
 
-## ⭐ Featured Projects
+Profesional IT con mas de 15 anos de experiencia en soporte tecnico corporativo N1/N2, redes e infraestructura. 
+Diseno y desarrollo sistemas internos en produccion con **React + PHP (API REST) + MySQL**, integrando flujos AI-assisted (Copilot, Codex, Claude) para resolver necesidades operativas reales de punta a punta.
 
-### 📌 Internal Operations Tools
-- **Control de Profesores y Asistencia** – sistema para controlar horarios, asistencia y alumnos.
-- **Control de Cobros de Planes** – gestión de pagos y vencimientos.
-- **Control de Ventas** – registro y análisis de ventas internas.
-- **Data Comparator** – herramienta para comparar Excel/CSV y validar datos.
+## Enfoque de Valor
 
+- Continuidad operativa IT en entornos de trabajo reales
+- Desarrollo interno orientado a negocio
+- Automatizacion de procesos y trazabilidad operativa
+- Alta autonomia tecnica para diagnosticar y ejecutar soluciones completas
 
+## Stack por Dominio
+
+### Infraestructura y Redes
+- TCP/IP, DNS, DHCP, NAT, VPN
+- Mikrotik (routing, firewall, VPN)
+- LAN/WiFi/cableado estructurado
+- Windows Server / Linux Ubuntu (basico-intermedio)
+
+### Soporte Corporativo
+- Soporte tecnico N1/N2
+- Microsoft 365 (Exchange, Teams, SharePoint)
+- HubSpot CRM (tickets y SLA)
+- Soporte remoto (RDP, AnyDesk, TeamViewer)
+
+### Desarrollo de Sistemas
+- React
+- PHP (API REST)
+- MySQL
+- Integraciones: WhatsApp API, Mercado Pago API, Email
+- Exportacion PDF y procesamiento Excel/CSV
+
+### Automatizacion con IA
+- GitHub Copilot
+- OpenAI Codex
+- Claude
+- Flujo AI-first para acelerar implementacion y resolucion operativa
+
+## Proyectos en Produccion
+
+### MRAnalytics - CRM de Cobranzas
+**Stack:** React · PHP (API REST) · MySQL · WhatsApp API · Email  
+Sistema multi-sede para rechazos de tarjeta, seguimiento de socios y recupero de deuda, con KPIs en tiempo real, RBAC y auditoria.
+
+### MRAnalytics POS - Punto de Venta
+**Stack:** React · PHP (API REST) · MySQL · Mercado Pago API  
+POS con stock por ubicacion, caja por turnos, historial y panel administrativo multi-sede.
+
+### Web Medico - Aptos y Turnos
+**Stack:** React · PHP (API REST) · MySQL  
+Gestion de cola diaria, adjuntos, certificados y actualizacion en tiempo real integrada al flujo operativo.
+
+### Sistemas Operativos Internos
+- Control de profesores, horarios y asistencia
+- Herramientas de comparacion y validacion de datasets (Excel/CSV)
+
+## Impacto
+
+- 15+ anos de experiencia IT
+- 5+ sistemas internos en produccion
+- 18+ usuarios activos en herramientas operativas
+- Entornos multi-sede con foco en estabilidad y eficiencia
+
+## Disponibilidad
+
+Disponible para roles de **Soporte IT Senior / SysAdmin** con foco en automatizacion, desarrollo interno y mejora operativa.
+
+## Contacto
+
+- Email: [marceloanton@outlook.com](mailto:marceloanton@outlook.com)
+- WhatsApp: [Contactar](https://wa.me/5491158327633?text=Hola%20Marcelo%2C%20vi%20tu%20perfil%20en%20GitHub.)
+- Sitio profesional: [marceloanton.online](https://marceloanton.online)
