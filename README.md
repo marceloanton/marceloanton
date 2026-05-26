@@ -3,7 +3,7 @@
 ### 🛠️ Soporte IT Senior | 🖥️ Administracion de Sistemas | 🤖 Desarrollo y Automatizacion con IA
 
 📍 Buenos Aires, Argentina  
-🌐 [marceloanton.online](https://marceloanton.online) · 💼 [LinkedIn](https://www.linkedin.com/in/marcelo-anton) · 🧑‍💻 [GitHub](https://github.com/marceloanton)
+🌐 [marceloanton.github.io](https://marceloanton.github.io/) · 💼 [LinkedIn](https://www.linkedin.com/in/marcelo-anton) · 🧑‍💻 [GitHub](https://github.com/marceloanton)
 
 ![Soporte IT](https://img.shields.io/badge/Soporte%20IT-Senior-0ea5e9?style=for-the-badge)
 ![SysAdmin](https://img.shields.io/badge/SysAdmin-Infraestructura-334155?style=for-the-badge)
@@ -96,4 +96,4 @@ Disponible para roles de **Soporte IT Senior / SysAdmin** con foco en automatiza
 
 - ✉️ Email: [marceloanton@outlook.com](mailto:marceloanton@outlook.com)
 - 💬 WhatsApp: [Contactar](https://wa.me/5491158327633?text=Hola%20Marcelo%2C%20vi%20tu%20perfil%20en%20GitHub.)
-- 🌐 Sitio profesional: [marceloanton.online](https://marceloanton.online)
+- 🌐 Sitio profesional: [marceloanton.github.io](https://marceloanton.github.io/)
